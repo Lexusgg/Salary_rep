@@ -1,0 +1,9 @@
+|    | name  | hours | rate | payout |
+|---|---|---|---|---|
+| Marketing    |    |    |    |    |
+| ---   | Alice Johnson | 160  | 50    | $8000    |
+|    |    | 160  |    | $8000    |
+| Design    |    |    |    |    |
+| ---   | Bob Smith | 150  | 40    | $6000    |
+| ---   | Carol Williams | 170  | 60    | $10200    |
+|    |    | 320  |    | $16200    |

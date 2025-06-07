@@ -1,0 +1,23 @@
+2025-06-07 20:08:29,741 - INFO - Starting report generation with args: {'files': ['data/data1.csv', 'data/data2.csv'], 'report': 'payout', 'format': 'text', 'output': None}
+2025-06-07 20:08:29,742 - INFO - Processing file: data/data1.csv
+2025-06-07 20:08:29,742 - INFO - Processed 3 records from data/data1.csv
+2025-06-07 20:08:29,742 - INFO - Processing file: data/data2.csv
+2025-06-07 20:08:29,743 - INFO - Processed 3 records from data/data2.csv
+2025-06-07 20:08:29,744 - INFO - Report generated successfully
+2025-06-07 20:09:47,210 - INFO - Starting report generation with args: {'files': ['data/data1.csv', 'data/data2.csv'], 'report': 'payout', 'format': 'json', 'output': None}
+2025-06-07 20:09:47,211 - INFO - Processing file: data/data1.csv
+2025-06-07 20:09:47,211 - INFO - Processed 3 records from data/data1.csv
+2025-06-07 20:09:47,211 - INFO - Processing file: data/data2.csv
+2025-06-07 20:09:47,212 - INFO - Processed 3 records from data/data2.csv
+2025-06-07 20:09:47,214 - INFO - Report generated successfully
+2025-06-07 20:10:25,242 - INFO - Starting report generation with args: {'files': ['data/data1.csv', 'data/data2.csv'], 'report': 'avg_rate', 'format': 'text', 'output': None}
+2025-06-07 20:10:25,242 - INFO - Processing file: data/data1.csv
+2025-06-07 20:10:25,243 - INFO - Processed 3 records from data/data1.csv
+2025-06-07 20:10:25,243 - INFO - Processing file: data/data2.csv
+2025-06-07 20:10:25,243 - INFO - Processed 3 records from data/data2.csv
+2025-06-07 20:10:25,244 - INFO - Report generated successfully
+2025-06-07 20:11:05,466 - INFO - Starting report generation with args: {'files': ['data/data1.csv'], 'report': 'payout', 'format': 'text', 'output': 'report.txt'}
+2025-06-07 20:11:05,466 - INFO - Processing file: data/data1.csv
+2025-06-07 20:11:05,467 - INFO - Processed 3 records from data/data1.csv
+2025-06-07 20:11:05,468 - INFO - Report saved to report.txt
+2025-06-07 20:11:05,468 - INFO - Report generated successfully
